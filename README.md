@@ -31,7 +31,7 @@ localhost:8080/person/{email}
 ```
 
 * Add (POST request) a person in the system:
-  * As to take the new person as in the body of the request
+  * Takes the new person as in the body of the request
 ```shell
 localhost:8080/person
 ```
